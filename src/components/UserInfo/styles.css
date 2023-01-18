@@ -1,0 +1,11 @@
+.userInfo {
+    border: 1px solid black;
+    text-align: left;
+    margin: 4rem;
+    padding: .5rem;
+}
+
+.text_section {
+    display: flex;
+    flex-direction: column;
+}
